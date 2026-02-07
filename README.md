@@ -1,4 +1,4 @@
-# Hi there 👋
+<p style="text-align: center;">Centered text</p>
 ### 💻 Языки программирования
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
