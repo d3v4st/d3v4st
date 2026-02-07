@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile 🩷</h1>
 
-<p align="center">My social networks</p>
+<h2 align="center">My social networks</h2>
 
 <p align="center">
   <img width="720" src="./assets/github-snake.svg" alt="github-snake"/>
