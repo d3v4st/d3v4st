@@ -14,7 +14,7 @@ My name is Gleb, and I'm an aspiring developer from Russia. I'm currently experi
 
 ### 📖 Frameworks & Libs
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=%23000000)
-![Static Badge](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&labelColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Node.JS-%235FA04E?style=for-the-badge&logo=nodedotjs&labelColor=%23000000)
 
 ### 🌱 Databases 
