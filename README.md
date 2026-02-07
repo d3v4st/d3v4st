@@ -1,4 +1,4 @@
-## <p align="center">Привет 👋</p>
+## <p align="center">Hello! I'm D3v4st 👋</p>
 
 ### 💻 Языки программирования
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
