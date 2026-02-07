@@ -53,7 +53,7 @@ Discord bot for the "**Political World**" server. It simulates complex geopoliti
 
 <h3 align="center">Thanks for reading!</h3>
 <p align="center">
-  <img width="480" src="assets/cute-cat.gif" alt="cute-cat"/>
+  <img src="assets/cute-cat.gif" alt="cute-cat"/>
 </p>
 
 <!--
