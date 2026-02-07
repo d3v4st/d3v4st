@@ -7,14 +7,14 @@ My name is Gleb, and I'm an aspiring developer from Russia. I'm currently experi
 
 ## 🔧 Мой стек технологий
 
-- **Языки:** JavaScript, Python (ознакомительно)
-- **Фронтенд:** React, HTML, CSS
-- **Бэкенд:** Node.js, Express
-- **Базы данных:** MongoDB (начальный уровень)
-- **Инструменты:** Git, VS Code, Figma, Postman
-
-### 💻 Языки программирования
+### 💻 Programming Languages
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+### 📖 Frameworks & Libs
+
+### 🌱 Databases 
+
+### 🛠️ Tools & IDEs
 
 ## 🔗 Мои социальные сети
 <!--
