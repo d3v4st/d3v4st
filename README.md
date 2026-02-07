@@ -2,7 +2,7 @@
 
 <h3 align="center">My social networks</h3>
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=%23000000&link=https%3A%2F%2Ft.me%2Fau_menya_belochka">
+  <a href="https://t.me/au_menya_belochka"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=%23000000"></a>
 </p>
 
 <p align="center">
