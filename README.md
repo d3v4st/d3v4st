@@ -1,6 +1,8 @@
 ## Hi there 👋
 ### 💻 Языки программирования
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+## 🔗 Мои социальные сети
 <!--
 **d3v4st/d3v4st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
