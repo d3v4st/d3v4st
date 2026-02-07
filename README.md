@@ -1,4 +1,4 @@
-<p text-align="center">Welcome to my profile 🩷</p>
+<h1 style="text-align: center;">Welcome to my profile 🩷</h1>
 
 <p align="center">My social networks</p>
 
