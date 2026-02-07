@@ -18,8 +18,12 @@ My name is Gleb, and I'm an aspiring developer from Russia. I'm currently experi
 ![Static Badge](https://img.shields.io/badge/Node.JS-%235FA04E?style=for-the-badge&logo=nodedotjs&labelColor=%23000000)
 
 ### 🌱 Databases 
+![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&labelColor=%23000000)
 
 ### 🛠️ Tools & IDEs
+![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&labelColor=%23000000)
+
 
 ## 🔗 Мои социальные сети
 <!--
