@@ -1,8 +1,20 @@
-# <p align="center">Welcome to my profile 🩷</p>
+<h1 align="center">Welcome to my profile 🩷</h1>
+
+<h3 align="center">🔗 My social networks</h3>
 
 <p align="center">
-  <img width="480" src="assets/github-snake.svg" alt="github-snake"/>
+  <a href="https://t.me/au_menya_belochka" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=%23000000"></a>
+  &nbsp;
+  <a href="https://funpay.com/users/5835082/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/FunPay-%234384D0?style=for-the-badge&logo=fortran&logoColor=%234384D0&labelColor=%23000000"></a>
 </p>
+
+</p>
+
+<p align="center">
+  <img width="720" src="./assets/github-snake.svg" alt="github-snake"/>
+</p>
+
+## ㅤ
 
 ### 🧑‍💻 A little bit about me:
 
@@ -30,9 +42,19 @@ Hi! 👋 My name is Gleb, and I'm an aspiring developer from Russia. I'm current
 ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&labelColor=%23000000)
 
-## 🏰 My projects
+## 💻 My projects
 
-## 🔗 My social networks
+### 🌍 **Political World Bot** 
+
+Discord bot for the "**Political World**" server. It simulates complex geopolitical processes and enables real-time state management.
+
+- **Key Feature:** High-level process automation and unique gameplay mechanics.
+- **Tech Stack:** `JavaScript`, `Deno`, `Discordeno.js`, asynchronous loop management.
+
+<h3 align="center">Thanks for reading!</h3>
+<p align="center">
+  <img width="480" src="assets/cute-cat.gif" alt="cute-cat"/>
+</p>
 
 <!--
 **d3v4st/d3v4st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
