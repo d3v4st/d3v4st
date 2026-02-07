@@ -9,7 +9,8 @@ My name is Gleb, and I'm an aspiring developer from Russia. I'm currently experi
 
 ### 💻 Programming Languages
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=%2323323330)
-![Static Badge](https://img.shields.io/badge/Node.JS-%235FA04E?style=for-the-badge&logo=nodedotjs&labelColor=%2323323330)
+![Static Badge](https://img.shields.io/badge/Node.JS-%2323323330?style=for-the-badge&logo=nodedotjs)
+
 
 ### 📖 Frameworks & Libs
 
