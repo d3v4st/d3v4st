@@ -1,7 +1,7 @@
 # <p align="center">Welcome to my profile 🩷</p>
 
 <p align="center">
-  <img width="480" src="assets/github-snake.svg" alt="github-snake"/>
+  <img width="480" src="./assets/github-snake.svg" alt="github-snake"/>
 </p>
 
 ### 🧑‍💻 A little bit about me:
