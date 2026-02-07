@@ -1,5 +1,7 @@
 # <p align="center">Welcome to my profile 🩷</p>
 
+## 🧑‍💻 a liitle about me
+
 ### 💻 Языки программирования
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
