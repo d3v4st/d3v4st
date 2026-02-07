@@ -3,9 +3,9 @@
 ### 🔗 My social networks
 <p align="center">Welcome to my profile 🩷</p>
 
-## <p align="center">
+<p align="center">
   <img width="720" src="./assets/github-snake.svg" alt="github-snake"/>
-</p>
+## </p>
 
 ### 🧑‍💻 A little bit about me:
 
