@@ -1,4 +1,5 @@
-<p style="text-align: center;">Centered text</p>
+<p align="center">This entire paragraph block will align center due to the styling attribute provided.</p>.
+
 ### 💻 Языки программирования
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
