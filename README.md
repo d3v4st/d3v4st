@@ -51,7 +51,7 @@ Discord bot for the "**Political World**" server. It simulates complex geopoliti
 - **Key Feature:** High-level process automation and unique gameplay mechanics.
 - **Tech Stack:** `JavaScript`, `Deno`, `Discordeno.js`, asynchronous loop management.
 
-## Thanks for reading!
+<h3 align="center">Thanks for reading!</h3>
 
 <!--
 **d3v4st/d3v4st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
