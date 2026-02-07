@@ -1,6 +1,6 @@
 # <p align="center">Welcome to my profile 🩷</p>
 
-### <p align="center">🔗 My social networks</p>
+<p align="center">My social networks</p>
 
 <p align="center">
   <img width="720" src="./assets/github-snake.svg" alt="github-snake"/>
