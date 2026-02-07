@@ -4,7 +4,7 @@
 Hi! 👋 My name is Gleb, and I'm an aspiring developer from Russia. I'm currently experimenting with web development and am also looking to get into game development in the future. I'm a second-year student at a technical college, majoring in Programming. There's not too much to tell about myself just yet, but I'm hoping to change that soon. 😉
 
 
-## 🔧 Technologies and tools
+## 🔧 My Technology stack
 
 ### 🐍 Programming Languages
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=%23000000)
