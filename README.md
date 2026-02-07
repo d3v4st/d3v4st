@@ -4,7 +4,9 @@
 
 <p align="center">
   <a href="https://t.me/au_menya_belochka" target="_blank" style="text-decoration: none;">
-    <img alt="Static Badge" src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=%23000000">
+    <span>
+      <img alt="Static Badge" src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=%23000000">
+    </span>
   </a>
   ㅤ
   <a href="https://funpay.com/users/5835082/" target="_blank" style="text-decoration: none;">
