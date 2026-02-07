@@ -1,7 +1,10 @@
 # <p align="center">Welcome to my profile 🩷</p>
 
+## 🔗 My social networks
+<p align="center">Welcome to my profile 🩷</p>
+
 <p align="center">
-  <img width="480" src="./assets/github-snake.svg" alt="github-snake"/>
+  <img width="720" src="./assets/github-snake.svg" alt="github-snake"/>
 </p>
 
 ### 🧑‍💻 A little bit about me:
@@ -32,7 +35,6 @@ Hi! 👋 My name is Gleb, and I'm an aspiring developer from Russia. I'm current
 
 ## 🏰 My projects
 
-## 🔗 My social networks
 
 <!--
 **d3v4st/d3v4st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
