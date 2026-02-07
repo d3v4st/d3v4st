@@ -6,7 +6,7 @@ Hi! 👋 My name is Gleb, and I'm an aspiring developer from Russia. I'm current
 
 ## 🔧 Technologies and tools
 
-### 💻 Programming Languages
+### 🐍 Programming Languages
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=%23000000)
 
