@@ -44,6 +44,12 @@ Hi! 👋 My name is Gleb, and I'm an aspiring developer from Russia. I'm current
 
 ## 🏰 My projects
 
+### **Political World Bot** 🌍
+
+Масштабная стратегия для Discord, имитирующая мировую политику и экономику.
+
+- **Особенность:** Автоматизация процессов и уникальные механики
+- **Стек:** javascript, deno, `discordeno.js`, работа с асинхронными циклами.
 
 <!--
 **d3v4st/d3v4st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
