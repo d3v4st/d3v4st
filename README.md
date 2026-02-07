@@ -5,8 +5,8 @@
   <a href="https://t.me/au_menya_belochka" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=%23000000">
   </a>
-    <a href="https://funpay.com" target="_blank">
-    <img src="https://img.shields.io/badge/FunPay-FF6B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2IDZDMjEuNTIzIDYgMjYgMTAuNDc3IDI2IDE2VjIySDIwVjE2QzIwIDEzLjc5MDkgMTguMjA5MSAxMiAxNiAxMkMxMy43OTA5IDEyIDEyIDEzLjc5MDkgMTIgMTZWMjRDMTIgMjYuMjA5MSAxMy43OTA5IDI4IDE2IDI4SDI0QzI2LjIwOTEgMjggMjggMjYuMjA5MSAyOCAyNFYxNkgyNlYyNEMyNiAyOC40MTggMjIuNDE4IDMyIDE4IDMyQzEzLjU4MiAzMiAxMCAyOC40MTggMTAgMjRWNkMxMCAxLjU4MiAxMy41ODIgLTIgMTggLTJDMjIuNDE4IC0yIDI2IDEuNTgyIDI2IDZIMTZaIiBmaWxsPSIjRkY2QjAwIi8+Cjwvc3ZnPgo=&logoColor=white" alt="FunPay">
+    <a href="https://funpay.com/users/5835082/" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/FunPay-%234384D0?style=for-the-badge&logo=fortran&logoColor=%234384D0&labelColor=%23000000">
   </a>
 </p>
 
