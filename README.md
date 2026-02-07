@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile 🩷</h1>
 
-<h3 align="center">My social networks</h3>
+<h3 align="center">🔗 My social networks</h3>
 <p align="center">
   <a href="https://t.me/au_menya_belochka"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&labelColor=%23000000"></a>
 </p>
