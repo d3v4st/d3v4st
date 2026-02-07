@@ -45,12 +45,9 @@ Hi! 👋 My name is Gleb, and I'm an aspiring developer from Russia. I'm current
 ## 💻 My projects
 
 ### 🌍 **Political World Bot** 
-
 Discord bot for the "**Political World**" server. It simulates complex geopolitical processes and enables real-time state management.
-
 - **Key Feature:** High-level process automation and unique gameplay mechanics.
 - **Tech Stack:** `JavaScript`, `Deno`, `Discordeno.js`, asynchronous loop management.
-
 ## <p>&nbsp;</p>
 
 <h3 align="center">Thanks for reading! ✨</h3>
