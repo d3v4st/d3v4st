@@ -25,6 +25,8 @@ My name is Gleb, and I'm an aspiring developer from Russia. I'm currently experi
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&labelColor=%23000000)
 
 
+## 🏰 Мои проекты
+
 ## 🔗 Мои социальные сети
 <!--
 **d3v4st/d3v4st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
