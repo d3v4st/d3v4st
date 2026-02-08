@@ -51,7 +51,7 @@ Discord bot for the "**Political World**" server. It simulates complex geopoliti
 
 <hr>
 
-<h3 align="center">May the Force be with yo! ✨</h3>
+<h3 align="center">May the Force be with you! ✨</h3>
 <p align="center">
   <img src="assets/cute-cat.gif" alt="cute-cat"/>
 </p>
