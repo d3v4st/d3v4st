@@ -49,10 +49,9 @@ Discord bot for the "**Political World**" server. It simulates complex geopoliti
 - **Key Feature:** High-level process automation and unique gameplay mechanics.
 - **Tech Stack:** `JavaScript`, `Deno`, `Discordeno.js`, asynchronous loop management.
 
-<h2>&nbsp;</h2>
-<p>&nbsp;</p>
+<hr>
 
-<h3 align="center">Thanks for reading! ✨</h3>
+<h3 align="center">May the Force be with yo! ✨</h3>
 <p align="center">
   <img src="assets/cute-cat.gif" alt="cute-cat"/>
 </p>
